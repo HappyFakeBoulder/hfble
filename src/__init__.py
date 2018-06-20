@@ -1,1 +1,6 @@
-#
+__description__ = 'hfble : A Python 3 module/API for login systems, made by HappyFakeBoulder (short for "HappyFakeBoulder Login Engine".)'
+__license__ = 'Freeware'
+__url__ = 'https://github.com/HappyFakeBoulder/hfble'
+__version__ = '1.0b'
+__author__ = 'HappyFakeBoulder'
+__email__ = 'weird1152@gmail.com'
