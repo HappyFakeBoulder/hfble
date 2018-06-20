@@ -1,5 +1,5 @@
 # hfble
-A Python 3 module for login systems, to be sent to PyPI
+A Python 3 module/API for login systems, to be sent to PyPI
 
 Made by HappyFakeBoulder
 
